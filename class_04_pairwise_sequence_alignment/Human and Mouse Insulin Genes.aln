@@ -1,0 +1,137 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+NG_007114.1:4986-6416                 ------------------------------------------------------------
+NC_000085.6:52264297-52265015         ACCAGGCAAGTGTTTGGAAACTGCAGCTTCAGCCCCTCTGGCCATCTGCCTACCCACCCC
+NC_000073.6:c142679726-142678656      ------------------------------------------------------------
+                                                                                                  
+
+NG_007114.1:4986-6416                 ------------------------------------------------------------
+NC_000085.6:52264297-52265015         ACCTGGAGACCTTAATGGGCCAAACAGCAAAGTCCAGGGGGCAGAGAGGAGGTACTTTGG
+NC_000073.6:c142679726-142678656      ------------------------------------------------------------
+                                                                                                  
+
+NG_007114.1:4986-6416                 --------------------------------AGCCCTCCAGGACAGGCTGC-ATCAGAA
+NC_000085.6:52264297-52265015         ACTATAAAGCTGGTGGGCATCCAGTAACCCCCAGCCCTTAGTGACCAGCTATAATCAGAG
+NC_000073.6:c142679726-142678656      --------------GGGGACCCAGTAACCACCAGCCCTAAGTGATCCGCTACAATCAAAA
+                                                                      ******    **   ***   **** * 
+
+NG_007114.1:4986-6416                 GAGGCCATCAAGCAGG-------TCTGTTCCAAGGGCCTTTGCGTCAGGTGGGCTCAGGA
+NC_000085.6:52264297-52265015         ACCATCAGCAAGCAGGTATGTACTCTCCTCTTTGGGCCT------------GGCTC----
+NC_000073.6:c142679726-142678656      ACCATCAGCAAGCAGGAAGGTACTCTTCTCAGTGGGCCT------------GGCTC----
+                                           ** ********       ***  **   ******            *****    
+
+NG_007114.1:4986-6416                 TTCCAGGGTGGCTGGACCCCAGGCCCCAGCTCTGCAGCAGGGAGGACGTGGCTGGGCTCG
+NC_000085.6:52264297-52265015         -CCCAG-----------CCAAGACTCCAG--CGACTTTAGGGAGAATG----TGGGCTCC
+NC_000073.6:c142679726-142678656      -CCCAG-----------CTAAGACCTCAG--GGACTTGAGGTAGGATA----TAGCCTCC
+                                        ****           *  ** *  ***     *   *** ** *      * * *** 
+
+NG_007114.1:4986-6416                 TGAAGCATGTGGGGGTGAGCCCAGGGGCCCCAAGGCAGGGCACCTGGCCTTCAGCCTGCC
+NC_000085.6:52264297-52265015         TCTCTTACATG----------------------------------GATCTTTTGCTAGCC
+NC_000073.6:c142679726-142678656      TCTCTTACGTG----------------------------------AAACTTTTGCTATCC
+                                      *     *  **                                     ***  **   **
+
+NG_007114.1:4986-6416                 TCAGCCCTGCCTGTCTCCCAGATCACTGTCCTTCTGCCATGGCCCTGTGGATGCGCCTCC
+NC_000085.6:52264297-52265015         TCAACCCTGCCTATCTTTCAGGTCATTG---TTTCAACATGGCCCTGTTGGTGCACTTCC
+NC_000073.6:c142679726-142678656      TCAACCCAGCCTATCTTCCAGGTTATTG---TTTCAACATGGCCCTGTGGATGCGCTTCC
+                                      *** *** **** ***  *** * * **   **    *********** * *** * ***
+
+NG_007114.1:4986-6416                 TGCCCCTGCTGGCGCTGCTGGCCCTCTGGGGACCTGACCCAGCCGCAGCCTTTGTGAACC
+NC_000085.6:52264297-52265015         TACCCCTGCTGGCCCTGCTTGCCCTCTGGGAGCCCAAACCCACCCAGGCTTTTGTCAAAC
+NC_000073.6:c142679726-142678656      TGCCCCTGCTGGCCCTGCTCTTCCTCTGGGAGTCCCACCCCACCCAGGCTTTTGTCAAGC
+                                      * *********** *****   ********   *  * **  **   ** ***** ** *
+
+NG_007114.1:4986-6416                 AACACCTGTGCGGCTCACACCTGGTGGAAGCTCTCTACCTAGTGTGCGGGGAACGAGGCT
+NC_000085.6:52264297-52265015         AGCATCTTTGTGGTCCCCACCTGGTAGAGGCTCTCTACCTGGTGTGTGGGGAGCGTGGCT
+NC_000073.6:c142679726-142678656      AGCACCTTTGTGGTTCCCACCTGGTGGAGGCTCTCTACCTGGTGTGTGGGGAGCGTGGCT
+                                      * ** ** ** **  * ******** ** *********** ***** ***** ** ****
+
+NG_007114.1:4986-6416                 TCTTCTACACACCCAAGACCCGCCGGGAGGCAGAGGACCTGCAGGGTGAGCCAACTGCCC
+NC_000085.6:52264297-52265015         TCTTCTACACACCCAAGTCCCGCCGTGAAGTGGAGGACCCACA-----------------
+NC_000073.6:c142679726-142678656      TCTTCTACACACCCATGTCCCGCCGTGAAGTGGAGGACCCACAAGGTGAG----------
+                                      *************** * ******* ** *  *******  **                 
+
+NG_007114.1:4986-6416                 ATTGCTGCCCCTGG---CCGCCCCCAGCCACCCCCTGCTCCTGGCGCTCCCACCCAGCAT
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      --TTCTGCCACTGAATTCTGTCCCCAG---------------------------------
+                                                                                                  
+
+NG_007114.1:4986-6416                 GGGCAGAAGGGGGCAGGAGGCTGCCACCCAGCAGGGGGTCAGGTGCACTTTTTTAAAAAG
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      ---------------------TGCTAACTACCCTGGTTTTCTTCACACTT---------G
+                                                                                                  
+
+NG_007114.1:4986-6416                 AAGTTCTCTTGGTCACGTCCTAAAAGTGACCAGCTCCCTGTGGCCCAGTCAGAATCTCAG
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      GGACATTGTAAATTGTGTCCTAGGTGTG--------------------------------
+                                                                                                  
+
+NG_007114.1:4986-6416                 CCTGAGGACGGTGTTGGCTTCGGCAGCCCCGAGATACATCAGAGGGTGGGCACGCTCCTC
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      ---------------------GAGGGTCTCGGGATA-ACCAGGGAGTGGGGACAC-----
+                                                                                                  
+
+NG_007114.1:4986-6416                 CCTCCACTCGCCCCTCAAACAAATGCCCCGCAGCCCATTTCTCCACCCTCATTTGATGAC
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      ------------------------------------------------------------
+                                                                                                  
+
+NG_007114.1:4986-6416                 CGCAGATTCAAGTGTTTTGTTAAGTAAAGTCCTGGGTGACCTGGGGTCACAGGGTGCCCC
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      ------------------------------------------------------------
+                                                                                                  
+
+NG_007114.1:4986-6416                 ACGCTGCCTGCCTCTGGGCGAACACCCCATCACGCCCGGAGGAGGGCGTGGCTGCCTGCC
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      ---------GTTTCTGGGGGAA--------GCTAGACATATGTAAACATGGCAGCTGCCA
+                                                                                                  
+
+NG_007114.1:4986-6416                 TGAGTGGGCCAGACCCCTGTCGCCAGGCCTCACGGCAGCTCCATAGTCAGGAGATGGGGA
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      GGAATGAGTAAGAATCCTGCCTTAAGGGGTCCTTGGTGGTAGTAACTTGGGACATGTGAC
+                                                                                                  
+
+NG_007114.1:4986-6416                 AGATGCTGGGGACAGGCCCTGGGGAGAAGTACTGGGATCACCTGTTCAGGCTCCCACTGT
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      TAGATCCCAGGATAGG----------------------TACCTATTTAGGGCCCTCATAG
+                                                                                                  
+
+NG_007114.1:4986-6416                 GACGCTGCCCCGGGGCGGGGGAAGGAGGT------GGGACATGTGGGCGTTGGGGCCTGT
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      AGCACTGCACTGACTGAAGATGAGTAGGCTTTAGAGGCCCATGTGTCCATCCATGACCAG
+                                                                                                  
+
+NG_007114.1:4986-6416                 AGGTCCACACCCAGTGTGGGTGACCCTCCCTCTAACCTGGGTCCAGCCCGGCTGGAGATG
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      TGACTTGTCCCACAGGCATGCAACCCCTGCC---------------ACCTGCAGGGGTTA
+                                                                                                  
+
+NG_007114.1:4986-6416                 GGTGGGAGTGCGACCTAGGGCTGGCGGGCAGGCGGGCACTGTGTCTC-CCTGACTGTGTC
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      AGGGGCGAGAAAACCTGGGGT-----AGTAGGAGGTTGCTCAGCTACTCCTGACTGGATT
+                                                                                                  
+
+NG_007114.1:4986-6416                 CTCCTGTGTCCCTCTGCCTCGCCGCTGTT----CCGGAACCTGCTCTGCGCGGCACGTCC
+NC_000085.6:52264297-52265015         ------------------------------------------------------------
+NC_000073.6:c142679726-142678656      TTCCTATGTGTCTTTGCTTCTGTGCTGCTGATGCCCTGGCCTGCTCTGACACAACCTCCC
+                                                                                                  
+
+NG_007114.1:4986-6416                 TGGCAGTGGGGCAGGTGGAGCTGGGCGGGGGCCCTGGTGCAGGCAGCCTGCAGCCCTTGG
+NC_000085.6:52264297-52265015         ----AGTGGAACAACTGGAGCTGGGAGGAAGCCCCGGGG------ACCTTCAGACCTTGG
+NC_000073.6:c142679726-142678656      TGGCAGTGGCACAACTGGAGCTGGGTGGAGGCCCGGGAGCAGGTGACCTTCAGACCTTGG
+                                          *****  **  ********** **  **** ** *       *** *** ******
+
+NG_007114.1:4986-6416                 CCCTGGAGGGGTCCCTGCAGAAGCGTGGCATTGTGGAACAATGCTGTACCAGCATCTGCT
+NC_000085.6:52264297-52265015         CGTTGGAGGTGGCCCGGCAGAAGCGTGGCATTGTGGATCAGTGCTGCACCAGCATCTGCT
+NC_000073.6:c142679726-142678656      CACTGGAGGTGGCCCAGCAGAAGCGTGGCATTGTAGATCAGTGCTGCACCAGCATCTGCT
+                                      *  ****** * *** ****************** ** ** ***** *************
+
+NG_007114.1:4986-6416                 CCCTCTACCAGCTGGAGAACTACTGCAACT-AGACGCAGCCCGCAGGCAGCCCCACACCC
+NC_000085.6:52264297-52265015         CCCTCTACCAGCTGGAGAACTACTGCAACTAAGGCCCA--CCTCGACCCGCCCCAC----
+NC_000073.6:c142679726-142678656      CCCTCTACCAGCTGGAGAACTACTGCAACT-AGACCCA--CCACTACCCAGCCTAC----
+                                      ****************************** ** * **  ** *   *   ** **    
+
+NG_007114.1:4986-6416                 GCCGCCTCCTGCACCGAGAGAGATGGAATAAAGCCCTTGAACCAG------------
+NC_000085.6:52264297-52265015         ----CCCTCTGCAAT----------GAATAAAACTTTTGAATAAGCACCAAAAAAAA
+NC_000073.6:c142679726-142678656      ----CCCTCTGCAAT----------GAATAAAACCTTTGAATGAGCACAA-------
+                                          **  *****            ******* *  *****  **            
