@@ -291,3 +291,15 @@ def get_genes_from_clusters(data,clusters,k,filename):
                 print(gene_id) 
                 continue 
         outf.close() 
+        
+def scikit_PCAandkmeans_silhouette(data,n_clusters,n_components):
+    reduced_data = PCA(n_components).fit_transform(data)
+    kmeans = KMeans(init='k-means++', n_clusters=n_clusters, n_init=10)
+    kmeans.fit(reduced_data)   
+    cluster_labels=kmeans.fit_predict(reduced_data)
+    silhouette_avg = silhouette_score(reduced_data, cluster_labels)
+    print("For n_clusters =", str(n_clusters), "and n_components =", str(n_components), "The average silhouette_score is :", silhouette_avg)
+    # Compute the silhouette scores for each sample
+    sample_silhouette_values = silhouette_samples(reduced_data, cluster_labels)
+
+    return cluster_labels
