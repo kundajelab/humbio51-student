@@ -1,0 +1,28 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile /data/project/1kg_phase1_all
+  --ld-snp rs4895441
+  --ld-window 10000
+  --out r.for.rs4895441
+  --r
+  --threads 10
+
+Hostname: jupyter-asalmeen
+Working directory: /home/jovyan/humbio51-instructor/Weekly Assignments/Week_8
+Start time: Sat Mar  4 07:30:35 2023
+
+Random number seed: 1677915035
+30093 MB RAM detected; reserving 15046 MB for main workspace.
+39728178 variants loaded from .bim file.
+1092 people (525 males, 567 females) loaded from .fam.
+Using up to 10 threads (change this with --threads).
+Before main variant filters, 1083 founders and 9 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 855 het. haploid genotypes present (see r.for.rs4895441.hh ); many
+commands treat these as missing.
+Total genotyping rate is 0.999956.
+39728178 variants and 1092 people pass filters and QC.
+Note: No phenotypes present.
+--r to r.for.rs4895441.ld ... done.
+
+End time: Sat Mar  4 07:31:39 2023
